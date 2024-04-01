@@ -1,0 +1,17 @@
+{
+  "name": "pawel-first-project",
+  "version": "1.0.0",
+  "description": "my first project in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "package.json",
+    "start",
+    "pawel"
+  ],
+  "author": "Pawel Lubrycht",
+  "license": "UNLICENSED"
+}
